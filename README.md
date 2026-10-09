@@ -13,9 +13,6 @@ Copy of the **usbliter8** source code.
 
 Neither Magnet Forensics nor any other corporation can stand in the way of disclosing vulnerabilities that affect millions of devices owned by ordinary citizens. Transparency and public awareness are fundamental to technical security and digital integrity.
 
-> **Article 19 — Universal Declaration of Human Rights (UN):**  
-> *"Everyone has the right to freedom of opinion and expression; this right includes freedom to hold opinions without interference and to seek, receive and impart information and ideas through any media and regardless of frontiers."*
-
 ---
 
 > **SAY NO TO CENSORSHIP!**
